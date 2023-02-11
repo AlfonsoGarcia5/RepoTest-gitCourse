@@ -3,3 +3,5 @@ writing plain text in vs code
 i had used it begore in python courses
 new line: modification test "I've taken 3 python courses"
 this is a course for git & git hub
+
+This is the third modification, reviewing modification historie and log
