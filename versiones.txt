@@ -1,6 +1,4 @@
 mensaje
 add 1
 add 2
-add 3
-add 4
-add 5
+jum branch, regreso a add2, agrego, brinco de add 3 a master, ya no hay add 3
