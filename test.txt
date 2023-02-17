@@ -1,3 +1,7 @@
 mensaje
 
 Mensaje para ramas. Titulo en master
+
+----
+Test branch2
+Aqui supongamos va el codigo de bugfix
