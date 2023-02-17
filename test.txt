@@ -2,7 +2,6 @@ mensaje
 
 Mensaje para ramas. Titulo en master
 
-<<<<<<< HEAD
 Empezamos a modificar para hacer adds y commits en branch de test
 Si sale bien, eso no saldra en master, solo en testbranch
 
@@ -10,7 +9,6 @@ Si sale bien, eso no saldra en master, solo en testbranch
 nuevo codigo echo en la rama experimental
 para hacer un merge con el head
 suponiendo este jala bien
-=======
 ----
 Test branch2
 Aqui supongamos va el codigo de bugfix
