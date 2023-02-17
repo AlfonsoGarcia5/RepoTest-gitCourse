@@ -7,3 +7,5 @@ add 2
 add 3
 
 add para staging para usar reset head
+
+add borrar para usar reset soft
