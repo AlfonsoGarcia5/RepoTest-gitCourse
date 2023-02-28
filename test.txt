@@ -13,3 +13,6 @@ suponiendo este jala bien
 Test branch2
 Aqui supongamos va el codigo de bugfix
 >>>>>>> branch2
+
+
+cambio file 1-3
