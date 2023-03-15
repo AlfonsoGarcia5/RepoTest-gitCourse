@@ -15,5 +15,6 @@ Aqui supongamos va el codigo de bugfix
 >>>>>>> branch2
 master 2
 mater 1
+Branch exp1
 
 cambio file 1-3
