@@ -14,5 +14,6 @@ Test branch2
 Aqui supongamos va el codigo de bugfix
 >>>>>>> branch2
 
+mater 1
 
 cambio file 1-3
