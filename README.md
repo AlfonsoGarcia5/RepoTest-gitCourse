@@ -7,9 +7,9 @@
 
 
 > Muy buenos avances y contenido
-Aquí una foto de un dionsaurio
+Aquí una foto
 
-:tw-1f340: :tw-1f40d: :tw-1f410: :tw-1f40c: :tw-1f40d: :tw-1f40d: :tw-1f40d:
+<p> <img src=https://i.imgur.com/R7ewqu7.gif /></p>
 *Gracias*
 
 > Lista de beneficios
